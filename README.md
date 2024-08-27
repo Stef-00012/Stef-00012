@@ -15,9 +15,8 @@ Aaaand, some data about me on Discord
 </div><br />
 
 Oh, also some data about me on GitHub
-
-![GitHub Stats](https://github-stats-stef-00012.vercel.app/api?username=Stef-00012&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats-stef-00012.vercel.app/?user=Stef-00012&theme=radical)
-
-![Top Languages](https://github-stats-stef-00012.vercel.app/api/top-langs/?username=Stef-00012&theme=tokyonight)
+<div style="justify-content: center; flex-wrap: wrap; margin: 10px; display: flex;">
+    <img src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=Stef-00012&theme=radical">
+    <img src="https://github-stats-stef-00012.vercel.app/api?username=Stef-00012&show_icons=true&theme=tokyonight">
+    <img src="https://github-stats-stef-00012.vercel.app/api/top-langs/?username=Stef-00012&theme=tokyonight">
+</div>
